@@ -1,6 +1,6 @@
-# CPT Reviewss
+# CPT Reviews
 
-A plugin for managing CPT reviews.
+A plugin for managing CPT reviews, made by Jorsen Mejia.
 
 ## Installation
 
